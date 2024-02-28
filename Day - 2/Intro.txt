@@ -1,0 +1,10 @@
+Flow control in programming refers to the order in which statements or instructions are executed in a program.
+
+It allows you to controll the program based on certain conditions or repeat specific actions.
+
+The primary tools:
+Decision Making:
+    (like if, else, switch) 
+    
+Repetions:
+    loops (such as for, while, do-while)
