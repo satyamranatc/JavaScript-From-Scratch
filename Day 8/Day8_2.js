@@ -55,3 +55,5 @@ let Add = (a,b)=>a+b; //? a+b will be returend
 console.log(Add(5,6));
 
 
+
+
