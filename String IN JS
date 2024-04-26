@@ -1,0 +1,20 @@
+let Text = "A"
+
+let Code = Text.charCodeAt(0);
+
+if( Code >= 65 && Code <= 90 ) 
+{
+    console.log("Upper Case")
+}
+else if( Code >= 97 && Code <= 122 )
+{
+    console.log("Lower Case")
+}
+else if( Code >= 48 && Code <= 57 )
+{
+    console.log("Digit")
+}
+else
+{
+    console.log("Special Characters")
+}
